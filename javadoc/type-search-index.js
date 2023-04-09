@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pl.edu.agh.kis.pz1","l":"Reader"},{"p":"pl.edu.agh.kis.pz1","l":"ReadingRoom"},{"p":"pl.edu.agh.kis.pz1","l":"RoomUser"},{"p":"pl.edu.agh.kis.pz1","l":"Writer"}]
